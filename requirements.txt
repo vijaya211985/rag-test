@@ -1,0 +1,13 @@
+altair
+pandas
+streamlit
+sklearn
+transformers
+chromadb
+bs4
+requests
+Client
+BeautifulSoup
+AutoTokenizer
+AutoModel
+pipeline
